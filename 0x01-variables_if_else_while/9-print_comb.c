@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - printing numbers the numbers from 0-9 with commas and space between them
+ * main - printing numbers the numbers from 0-9 with commas and space
  *
  * Description: using the main function
  * this program prints "0, 1, 2, 3, 4, 5, 6, 7, 8, 9"
