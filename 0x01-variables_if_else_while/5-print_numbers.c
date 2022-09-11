@@ -11,7 +11,7 @@ int main(void)
 int l;
 for (l = 0; l < 10; l++)
 {
-printf("%l" , l);
+printf("%i" , l);
 }
 printf("\n");
 return (0);
