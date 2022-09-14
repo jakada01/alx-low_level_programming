@@ -1,11 +1,11 @@
 #include "main.h"
 /**
- * jack_baver - func that prints every minute of the day of jack baver start
+ * jack_bauer - func that prints every minute of the day of jack bauer start
  * n from 00:00 to 23:50, min loop counts mins, while hours counts hours
  * and resets mins
  * Return: 0
  */
-void jack_baver(void);
+void jack_bauer(void)
 {
 int hours = 0;
 int minutes = 0;
